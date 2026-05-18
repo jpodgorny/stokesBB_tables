@@ -19,7 +19,7 @@ neutral reflection tables with all initial updates included.
 Description of STOKESBB tables
 ==============================
 
-The STOKESBB tables (Podgorný et al. 2022, 2025, Podgorný & Dovčiak 2026)
+The STOKESBB tables (Podgorný et al. 2022, 2026, Podgorný & Dovčiak 2026)
 provide spectra and polarisation properties of reprocessed emission in a plane-parallel
 slab illuminated by an X-ray source emitting single-temperature blackbody
 radiation. The incident photons may have arbitrary polarisation. The reprocessing 
@@ -89,8 +89,8 @@ _Spectral and polarization properties of reflected X-ray emission from black hol
 [MNRAS, 510, pp.4723-4735](https://doi.org/10.1093/mnras/stab3714) 
 [[arXiv:2201.07494](https://arxiv.org/abs/2201.07494)]
 
-Podgorný J, Dovčiak M, Goosmann RW, Marin F, Marra L, Matt G, Różańska A & Taverna R (2025, submitted)  
-_X-ray polarization of reflected thermal emission_  
+Podgorný J, Dovčiak M, Goosmann RW, Marin F, Marra L, Matt G, Różańska A & Taverna R (2026, submitted)
+_X-ray polarization of reflected thermal emission_
 [[arXiv:2507.23687](https://arxiv.org/abs/2507.23687)]
 
 Podgorný J & Dovčiak M (2026)
