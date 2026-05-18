@@ -12,7 +12,7 @@ Version
 
 Version 2.0.
 
-This version contains the blackbody partially ionized reflection tables unified in xi and blackbody
+This version contains the blackbody partially ionized reflection tables and blackbody
 neutral reflection tables with all initial updates included.
 
 
