@@ -2,7 +2,7 @@ Table of contents
 =================
 
 * [Version](#version)
-* [Description of STOKESBB tables and models](#description-of-STOKESBB-tables-and-models)
+* [Description of STOKESBB tables](#description-of-STOKESBB-tables)
 * [References](#references)
 * [Parameter definitions for STOKESBB tables](#parameter-definitions-for-STOKESBB-tables)
 
@@ -16,10 +16,10 @@ This version contains the blackbody partially ionized reflection tables and blac
 neutral reflection tables with all initial updates included.
 
 
-Description of STOKESBB tables and models
-=======================================
+Description of STOKESBB tables
+==============================
 
-The STOKESBB tables and models (Podgorný et al. 2022, 2025, Podgorný & Dovčiak 2026)
+The STOKESBB tables (Podgorný et al. 2022, 2025, Podgorný & Dovčiak 2026)
 provide spectra and polarisation properties of reprocessed emission in a plane-parallel
 slab illuminated by an X-ray source emitting single-temperature blackbody
 radiation. The incident photons may have arbitrary polarisation. The reprocessing 
