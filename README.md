@@ -71,10 +71,13 @@ these tables include Γ, μ<sub>i</sub>, μ<sub>e</sub> and φ,
 vertical direction, measured counterclockwise; the parameters of
 these tables include Γ, μ<sub>i</sub>, μ<sub>e</sub> and φ.
 
-The blackbody reflection Stokes parameters are additionally multiplied
-by a 10<sup>-20</sup> factor for storage convenience, unlike the tables with a power law.
-Isotropic versions are yet to be added, and the XSPEC corresponding models that can be found
-for power-law reflection tables are yet to be constructed.
+Inside the main partially ionized blackbody reflection tables, the Stokes parameters are
+additionally multiplied by a 10<sup>-20</sup>  factor for storage convenience, unlike
+the Stokes parameters in the tables with a power law. Inside the fully neutral blackbody
+reflection tables, the Stokes parameters are normalized analogically to the power-law
+fully neutral reflection tables, without any extra factor. Isotropic versions are yet to be
+added, and the XSPEC corresponding models that can be found for power-law reflection tables
+are yet to be constructed.
 
 For any issues regarding the use of the STOKESBB tables, please, contact J.
 Podgorný at [jakub.podgorny@asu.cas.cz](mailto:jakub.podgorny@asu.cas.cz) 
